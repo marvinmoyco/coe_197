@@ -8,4 +8,4 @@
 **Notes:** 
 
 * When the final project is downloaded, the notebook will download the needed dataset (about 2-3 Gb) so please take into account the size of the STL-10 Dataset
-* When using the Final project, either: (1) include the pca_func.py on your pull and place it on the same directory as the notebook or comment out "import pca_func" on the notebook (This will fix it and the multiprocessing method will not run since it depends on the pca_func.py)
+* When using the Final project, either: (1) include the pca_func.py on your pull and place it on the same directory as the notebook or (2) comment out "import pca_func" on the notebook (This will fix it and the multiprocessing method will not run since it depends on the pca_func.py)
